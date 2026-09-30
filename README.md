@@ -1,4 +1,4 @@
-bout
+About
 Deployed a Windows Server 2022 and domain controller. Troubleshot and configured using PowerShell bulk scripting, GPO passowrd policies, and NTFS file permissions to simulate user and group policy management 
 
 Using PowerShell scripting, I created a bulk script detailing the process of adding multiple users to their designated OUs simultaneously. Working in an IT, enterprise-level environment requires one to add multiple users or clients at once,  
