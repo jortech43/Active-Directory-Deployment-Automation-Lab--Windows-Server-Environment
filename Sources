@@ -1,5 +1,0 @@
-I designed my Active Directory lab through the help of online resources. Here are the sources I have used for reference only.
-
-https://learn.microsoft.com/en-us/powershell/module/activedirectory/remove-adorganizationalunit?view=windowsserver2025-ps 
-https://www.alitajran.com/add-users-to-group-powershell/ 
-https://www.turbogeek.co.uk/how-to-automate-multiple-ad-user-creation-using-powershell-import-csv/ 
